@@ -3,7 +3,8 @@
 # Introduction :
 
 This project comes with everything developped here :\
-https://github.com/lovisXII/RiVer_SoC\
+https://github.com/lovisXII/RiVer_SoC
+
 We moved the super-scalar implementation here to clean a bit the other repository.
 
 This project started as a project of our 1st year Master and aimed to modernise the architecture studied at Sorbonne University.\
